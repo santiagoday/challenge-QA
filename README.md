@@ -3,7 +3,7 @@
 ### Objetivo
 El presente ejercicio tiene una modalidad integradora con 2 partes bien marcadas en la que se busca entender mejor las capacidades del candidato.
 
-### QA Manual
+### Parte A
 
 A continuación se te presentarán 2 imágenes. Una será el diseño que el equipode UX entregó a los desarrolladores y una segunda imagen en la cual se mostrará el diseño final implementado por el equipo de desarrollo.
 
@@ -17,12 +17,16 @@ Nos interesa ver como los cargas y describis el error a reportar. La idea es sim
 
 - Detallar brevemente el proceso para la detección de issues y consideraciones a la hora de reportarlos
 
+- Si encontrases un bug en la plataforma que no podés reproducir de manera consistente, cómo lo reportarías? Explicar con ejemplos
+
 Extra (deseable, no obligatorio)
 - Realizar el reporte de los issues en inglés
 
-### Automation
+### Parte B
 
-Esta segunda etapa de
+- Cuales serían los test cases que harías para una pantalla de login?
+(Imagen de nuestra pantalla de Login)
+- Como automatizarías el proceso? Generar el código asociado comentandolo y explicandolo en detalle con comentarios dentro del mismo.
 
 ### Cosideraciones Finales 
 
