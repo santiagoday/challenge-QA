@@ -33,6 +33,8 @@ En base a las imagenes enviadas te pedimos:
 
 - Como automatizarías el proceso de testing para esta pantalla? Generar el código asociado comentandolo y explicandolo en detalle con comentarios dentro del mismo.
 
+**Aclaración**: Para este último punto se puede utilizar cualquier tipo de lenguaje o framework
+
 ### Metodología de entrega
 - Forkea este repositorio en tu cuenta personal y realiza el ejercicio ahí mismo
 - Una vez finalizado darle acceso a @gadots @gonpombo8 @mfocaraccio
