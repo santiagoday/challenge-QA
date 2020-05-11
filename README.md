@@ -26,6 +26,9 @@ Extra (deseable, no obligatorio)
 
 - Cuales serían los test cases que harías para una pantalla de login?
 (Imagen de nuestra pantalla de Login)
+
+![login](log-in-improvement.png)
+
 - Como automatizarías el proceso? Generar el código asociado comentandolo y explicandolo en detalle con comentarios dentro del mismo.
 
 ### Cosideraciones Finales 
