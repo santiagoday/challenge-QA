@@ -16,8 +16,7 @@ A continuación se te presentarán 2 imágenes. Una será el diseño que el equi
 ![Implementación](DEV.png)
 
 En base a las imagenes enviadas te pedimos:
-- Relevar los issues correspondientes y reportarlos en el board de tu repositorio
-Nos interesa ver como los cargas y describis el error a reportar. La idea es simular una situación de trabajo del día a día.
+- Relevar los issues correspondientes y reportarlos en el board de tu repositorio. Nos interesa ver como los cargas y describis el error a reportar. La idea es simular una situación de trabajo del día a día.
 
 - Detallar brevemente el proceso para la detección de issues y consideraciones a la hora de reportarlos
 
@@ -33,6 +32,10 @@ Nos interesa ver como los cargas y describis el error a reportar. La idea es sim
 ![login](log-in-improvement.png)
 
 - Como automatizarías el proceso de testing para esta pantalla? Generar el código asociado comentandolo y explicandolo en detalle con comentarios dentro del mismo.
+
+### Metodología de entrega
+- Forkea este repositorio en tu cuenta personal y realiza el ejercicio ahí mismo
+- Una vez finalizado darle acceso a @gadots @gonpombo8 @mfocaraccio
 
 ### Cosideraciones Finales 
 
