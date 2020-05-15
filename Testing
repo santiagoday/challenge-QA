@@ -1,0 +1,28 @@
+Issues Found in the Implemented Design.
+1.The Permitido_entrar_1 Zone´s name is too long. So the edit and the delete button are not aligned with the other buttons. It is also impossible to see the gray code that every zone has.
+2.The Prueba BB2 Zone´s name is spaced vertically. This error also moves the gray code right so its overlayed by the edit button.
+3.In the design screenshot, on the left column there are three dropdown menus. While in the implemented design there are only two, and only the Zona menu is in both screenshots. The Zonas beacons and the Sensores menus have been replaced by the Anclas Beacons menu.
+4.At the top Left of the Design Screen we can see that it says Mapa/Edición, while in the other screen it only says Mapa, making it uncertain if it is possible to Edit in this screen.
+5.In the implemented design it is not possible to see the beacons.
+6.In the UX Team screen there is a round purple zone with a 200 in it. This feature is not included in the implemented design.
+7.At the top right of boths screens there is a drop down menu, in the Design screenshot it says “Exterior” because it shows an entire block. But in the implemented design it says “Oficina Central” which is wrong because it is not showing the perimeter of the Headquarters of the company, it shows almost an entire map of Palermo.
+8.At the top right of both screens, next to the drop down menu, there is a blue button. In the first screen it says “Guardar” but in the implemented design it says “Vista”.
+
+
+Every one of the issues listed above have been detected by carefully observing both screenshots. I am not aware of the way this application should work, however by comparing both pictures I was able to assume which functionalities were implemented correctly and which ones needed to be checked. At the time of reporting the issues I tried to be as precise and clear as possible.
+If a bug is not easily replicable, for example a new Zone that appeared from nowhere, I would take a screenshot and write a report about it. In the case that it is possible to replicate but just difficult to do so, it is important to imitate the conditions that were given at the time of the bug.
+
+Log In Test Cases
+
+1.Introducing a valid user and password. This is the only test case which expected result is to successfully log in.
+2.Introducing a valid user and an invalid password.
+3.Introducing an invalid user and a valid password.
+4.Introducing an invalid user and password.
+5.Introducing a valid user and no password.
+6.Introducing no user and a valid password.
+7.Introducing two blank fields.
+8.Introducing an invalid user and no password.
+9.Introducing no user and an invalid password.
+10.Introducing users and passwords that contain non alphanumeric characters.
+11.Test code injections
+12.Test for Quality of Life Features( tab to switch between boxes, enter to send request, log in persistency) 
